@@ -485,3 +485,4 @@
 'https://store.steampowered.com/app/500710',
 'https://store.steampowered.com/app/501930',
 'https://store.steampowered.com/app/501950',
+'https://store.steampowered.com/app/503950',
