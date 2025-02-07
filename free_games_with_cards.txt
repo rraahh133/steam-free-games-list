@@ -320,3 +320,4 @@
 'https://store.steampowered.com/app/629420',
 'https://store.steampowered.com/app/629540',
 'https://store.steampowered.com/app/630140',
+'https://store.steampowered.com/app/630360',
