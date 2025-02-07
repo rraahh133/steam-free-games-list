@@ -701,3 +701,4 @@
 'https://store.steampowered.com/app/616830',
 'https://store.steampowered.com/app/617360',
 'https://store.steampowered.com/app/618080',
+'https://store.steampowered.com/app/618420',
