@@ -12,8 +12,6 @@ This tool searches for **free** games on Steam that have **achievements**.
 
 ---
 
----
-
 ## 📁 Output Files
 - **`free_games_with_achievements.txt`** → Contains free games with achievements.
 - **`free_games_with_cards.txt`** → Contains free games with trading cards ( no drops ).
