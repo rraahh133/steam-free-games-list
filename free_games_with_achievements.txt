@@ -1203,3 +1203,4 @@
 'https://store.steampowered.com/app/868580',
 'https://store.steampowered.com/app/868710',
 'https://store.steampowered.com/app/869260',
+'https://store.steampowered.com/app/869400',
