@@ -1935,3 +1935,4 @@
 'https://store.steampowered.com/app/1223460',
 'https://store.steampowered.com/app/1225810',
 'https://store.steampowered.com/app/1226280',
+'https://store.steampowered.com/app/1226300',
