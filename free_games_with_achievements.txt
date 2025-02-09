@@ -1950,3 +1950,4 @@
 'https://store.steampowered.com/app/1230410',
 'https://store.steampowered.com/app/1230660',
 'https://store.steampowered.com/app/1230930',
+'https://store.steampowered.com/app/1231590',
