@@ -2015,3 +2015,5 @@
 'https://store.steampowered.com/app/1265810',
 'https://store.steampowered.com/app/1266380',
 'https://store.steampowered.com/app/1266900',
+'https://store.steampowered.com/app/1266980',
+'https://store.steampowered.com/app/1266970',
