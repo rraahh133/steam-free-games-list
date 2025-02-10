@@ -2021,3 +2021,4 @@
 'https://store.steampowered.com/app/1267770',
 'https://store.steampowered.com/app/1269150',
 'https://store.steampowered.com/app/1269210',
+'https://store.steampowered.com/app/1269340',
