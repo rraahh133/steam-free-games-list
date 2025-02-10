@@ -2007,3 +2007,4 @@
 'https://store.steampowered.com/app/1259440',
 'https://store.steampowered.com/app/1259460',
 'https://store.steampowered.com/app/1260960',
+'https://store.steampowered.com/app/1262190',
