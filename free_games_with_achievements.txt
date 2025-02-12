@@ -2918,3 +2918,4 @@
 'https://store.steampowered.com/app/1708870',
 'https://store.steampowered.com/app/1709070',
 'https://store.steampowered.com/app/1709920',
+'https://store.steampowered.com/app/1710840',
