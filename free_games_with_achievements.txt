@@ -3601,3 +3601,4 @@
 'https://store.steampowered.com/app/2036241',
 'https://store.steampowered.com/app/2036243',
 'https://store.steampowered.com/app/2036244',
+'https://store.steampowered.com/app/2036368',
