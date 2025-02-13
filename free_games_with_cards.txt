@@ -443,3 +443,7 @@
 'https://store.steampowered.com/app/2036241',
 'https://store.steampowered.com/app/2036243',
 'https://store.steampowered.com/app/2036469',
+'https://store.steampowered.com/app/2036997',
+'https://store.steampowered.com/app/2036996',
+'https://store.steampowered.com/app/2036998',
+'https://store.steampowered.com/app/2036999',
