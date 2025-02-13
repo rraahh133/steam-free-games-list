@@ -433,3 +433,6 @@
 'https://store.steampowered.com/app/2032712',
 'https://store.steampowered.com/app/2033275',
 'https://store.steampowered.com/app/2035514',
+'https://store.steampowered.com/app/2035970',
+'https://store.steampowered.com/app/2035973',
+'https://store.steampowered.com/app/2035978',
