@@ -3412,3 +3412,4 @@
 'https://store.steampowered.com/app/1958850',
 'https://store.steampowered.com/app/1959510',
 'https://store.steampowered.com/app/1960380',
+'https://store.steampowered.com/app/1961790',
