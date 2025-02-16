@@ -3800,3 +3800,4 @@
 'https://store.steampowered.com/app/2141100',
 'https://store.steampowered.com/app/2141710',
 'https://store.steampowered.com/app/2142400',
+'https://store.steampowered.com/app/2142840',
