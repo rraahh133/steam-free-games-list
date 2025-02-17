@@ -4005,3 +4005,4 @@
 'https://store.steampowered.com/app/2249510',
 'https://store.steampowered.com/app/2249890',
 'https://store.steampowered.com/app/2249950',
+'https://store.steampowered.com/app/2250060',
