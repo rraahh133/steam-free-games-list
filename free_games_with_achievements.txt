@@ -4042,3 +4042,4 @@
 'https://store.steampowered.com/app/2266850',
 'https://store.steampowered.com/app/2267800',
 'https://store.steampowered.com/app/2267810',
+'https://store.steampowered.com/app/2267870',
