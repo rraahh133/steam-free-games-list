@@ -5019,3 +5019,4 @@
 'https://store.steampowered.com/app/2850650',
 'https://store.steampowered.com/app/2851690',
 'https://store.steampowered.com/app/2851730',
+'https://store.steampowered.com/app/2852390',
