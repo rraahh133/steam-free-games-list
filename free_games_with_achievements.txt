@@ -4909,3 +4909,4 @@
 'https://store.steampowered.com/app/2780660',
 'https://store.steampowered.com/app/2781320',
 'https://store.steampowered.com/app/2781490',
+'https://store.steampowered.com/app/2782380',
