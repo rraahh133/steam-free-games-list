@@ -5007,3 +5007,4 @@
 'https://store.steampowered.com/app/2847110',
 'https://store.steampowered.com/app/2847400',
 'https://store.steampowered.com/app/2847640',
+'https://store.steampowered.com/app/2848040',
