@@ -5000,3 +5000,5 @@
 'https://store.steampowered.com/app/2843690',
 'https://store.steampowered.com/app/2843830',
 'https://store.steampowered.com/app/2844620',
+'https://store.steampowered.com/app/2845250',
+'https://store.steampowered.com/app/2845260',
