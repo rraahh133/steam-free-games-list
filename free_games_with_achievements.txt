@@ -5312,3 +5312,4 @@
 'https://store.steampowered.com/app/3046430',
 'https://store.steampowered.com/app/3047030',
 'https://store.steampowered.com/app/3047420',
+'https://store.steampowered.com/app/3047580',
