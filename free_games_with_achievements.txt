@@ -5090,3 +5090,4 @@
 'https://store.steampowered.com/app/2893310',
 'https://store.steampowered.com/app/2893970',
 'https://store.steampowered.com/app/2895990',
+'https://store.steampowered.com/app/2896150',
