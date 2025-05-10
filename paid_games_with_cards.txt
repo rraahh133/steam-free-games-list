@@ -1,0 +1,3 @@
+'https://store.steampowered.com/app/1000010',
+'https://store.steampowered.com/app/1000030',
+'https://store.steampowered.com/app/81294',
