@@ -5,3 +5,4 @@
 'https://store.steampowered.com/app/380',
 'https://store.steampowered.com/app/400',
 'https://store.steampowered.com/app/410',
+'https://store.steampowered.com/app/420',
