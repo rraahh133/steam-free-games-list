@@ -188,3 +188,5 @@
 'https://store.steampowered.com/app/35020',
 'https://store.steampowered.com/app/35140',
 'https://store.steampowered.com/app/35450',
+'https://store.steampowered.com/app/35700',
+'https://store.steampowered.com/app/35710',
