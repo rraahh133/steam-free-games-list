@@ -22,3 +22,4 @@
 'https://store.steampowered.com/app/3020',
 'https://store.steampowered.com/app/3020',
 'https://store.steampowered.com/app/3020',
+'https://store.steampowered.com/app/3700',
