@@ -345,3 +345,4 @@
 'https://store.steampowered.com/app/15500',
 'https://store.steampowered.com/app/15510',
 'https://store.steampowered.com/app/15520',
+'https://store.steampowered.com/app/15540',

@@ -130,3 +130,4 @@
 'https://store.steampowered.com/app/12340',
 'https://store.steampowered.com/app/12360',
 'https://store.steampowered.com/app/13230',
+'https://store.steampowered.com/app/15540',
