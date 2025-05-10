@@ -101,3 +101,5 @@
 'https://store.steampowered.com/app/5676',
 'https://store.steampowered.com/app/5690',
 'https://store.steampowered.com/app/5713',
+'https://store.steampowered.com/app/5721',
+'https://store.steampowered.com/app/5730',
