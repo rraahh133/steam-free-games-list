@@ -54,3 +54,8 @@
 'https://store.steampowered.com/app/4920',
 'https://store.steampowered.com/app/4932',
 'https://store.steampowered.com/app/5028',
+'https://store.steampowered.com/app/5044',
+'https://store.steampowered.com/app/5043',
+'https://store.steampowered.com/app/5045',
+'https://store.steampowered.com/app/5046',
+'https://store.steampowered.com/app/5049',
