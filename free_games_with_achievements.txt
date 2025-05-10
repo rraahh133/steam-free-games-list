@@ -8,3 +8,4 @@
 'https://store.steampowered.com/app/985',
 'https://store.steampowered.com/app/997',
 'https://store.steampowered.com/app/994',
+'https://store.steampowered.com/app/1230',
