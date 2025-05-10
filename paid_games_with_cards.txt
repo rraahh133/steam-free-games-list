@@ -152,3 +152,5 @@
 'https://store.steampowered.com/app/21690',
 'https://store.steampowered.com/app/22000',
 'https://store.steampowered.com/app/22010',
+'https://store.steampowered.com/app/22100',
+'https://store.steampowered.com/app/22110',
