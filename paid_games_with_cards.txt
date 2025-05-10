@@ -88,3 +88,4 @@
 'https://store.steampowered.com/app/5447',
 'https://store.steampowered.com/app/5445',
 'https://store.steampowered.com/app/5453',
+'https://store.steampowered.com/app/5475',
