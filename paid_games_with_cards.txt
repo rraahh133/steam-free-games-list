@@ -5,3 +5,8 @@
 'https://store.steampowered.com/app/620',
 'https://store.steampowered.com/app/659',
 'https://store.steampowered.com/app/870',
+'https://store.steampowered.com/app/917',
+'https://store.steampowered.com/app/901',
+'https://store.steampowered.com/app/904',
+'https://store.steampowered.com/app/918',
+'https://store.steampowered.com/app/908',
