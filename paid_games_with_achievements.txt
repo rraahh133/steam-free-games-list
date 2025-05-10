@@ -168,3 +168,6 @@
 'https://store.steampowered.com/app/5541',
 'https://store.steampowered.com/app/5577',
 'https://store.steampowered.com/app/5573',
+'https://store.steampowered.com/app/5589',
+'https://store.steampowered.com/app/5593',
+'https://store.steampowered.com/app/5581',
