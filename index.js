@@ -14,7 +14,7 @@ const CONCURRENCY_LIMIT = 20; // safest value is 20
 const DELAY = 5000; // safest value is 5000
 const RETRY_DELAY = 300000; // 5 minutes
 
-let lastChecked = 81279;
+let lastChecked = 0;
 if (fs.existsSync(PROGRESS_FILE)) {
     const progress = JSON.parse(fs.readFileSync(PROGRESS_FILE));
     lastChecked = progress.lastChecked || lastChecked;
