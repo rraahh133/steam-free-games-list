@@ -240,3 +240,8 @@
 'https://store.steampowered.com/app/5768',
 'https://store.steampowered.com/app/5767',
 'https://store.steampowered.com/app/5779',
+'https://store.steampowered.com/app/5799',
+'https://store.steampowered.com/app/5796',
+'https://store.steampowered.com/app/5797',
+'https://store.steampowered.com/app/5785',
+'https://store.steampowered.com/app/5793',
