@@ -1,2 +1,4 @@
 'https://store.steampowered.com/app/440',
 'https://store.steampowered.com/app/730',
+'https://store.steampowered.com/app/931',
+'https://store.steampowered.com/app/923',
