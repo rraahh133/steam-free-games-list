@@ -4,3 +4,7 @@
 'https://store.steampowered.com/app/931',
 'https://store.steampowered.com/app/923',
 'https://store.steampowered.com/app/960',
+'https://store.steampowered.com/app/987',
+'https://store.steampowered.com/app/985',
+'https://store.steampowered.com/app/997',
+'https://store.steampowered.com/app/994',
