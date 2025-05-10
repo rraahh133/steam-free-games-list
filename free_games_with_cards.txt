@@ -22,3 +22,5 @@
 'https://store.steampowered.com/app/5062',
 'https://store.steampowered.com/app/5063',
 'https://store.steampowered.com/app/5073',
+'https://store.steampowered.com/app/5091',
+'https://store.steampowered.com/app/5090',
