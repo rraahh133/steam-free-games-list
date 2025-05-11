@@ -554,3 +554,4 @@
 'https://store.steampowered.com/app/42680',
 'https://store.steampowered.com/app/42700',
 'https://store.steampowered.com/app/42710',
+'https://store.steampowered.com/app/42910',
