@@ -605,3 +605,4 @@
 'https://store.steampowered.com/app/49540',
 'https://store.steampowered.com/app/49600',
 'https://store.steampowered.com/app/49610',
+'https://store.steampowered.com/app/49810',
