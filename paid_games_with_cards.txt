@@ -448,3 +448,6 @@
 'https://store.steampowered.com/app/81210',
 'https://store.steampowered.com/app/81226',
 'https://store.steampowered.com/app/81227',
+'https://store.steampowered.com/app/81242',
+'https://store.steampowered.com/app/81251',
+'https://store.steampowered.com/app/81243',
