@@ -602,3 +602,8 @@
 'https://store.steampowered.com/app/82147',
 'https://store.steampowered.com/app/82149',
 'https://store.steampowered.com/app/82143',
+'https://store.steampowered.com/app/82179',
+'https://store.steampowered.com/app/82172',
+'https://store.steampowered.com/app/82167',
+'https://store.steampowered.com/app/82173',
+'https://store.steampowered.com/app/82175',
