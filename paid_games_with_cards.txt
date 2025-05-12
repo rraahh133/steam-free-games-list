@@ -505,3 +505,6 @@
 'https://store.steampowered.com/app/81570',
 'https://store.steampowered.com/app/81565',
 'https://store.steampowered.com/app/81574',
+'https://store.steampowered.com/app/81580',
+'https://store.steampowered.com/app/81592',
+'https://store.steampowered.com/app/81590',
