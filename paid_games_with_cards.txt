@@ -403,3 +403,8 @@
 'https://store.steampowered.com/app/80876',
 'https://store.steampowered.com/app/80878',
 'https://store.steampowered.com/app/80875',
+'https://store.steampowered.com/app/80896',
+'https://store.steampowered.com/app/80894',
+'https://store.steampowered.com/app/80883',
+'https://store.steampowered.com/app/80888',
+'https://store.steampowered.com/app/80893',
