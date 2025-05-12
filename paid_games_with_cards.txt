@@ -478,3 +478,6 @@
 'https://store.steampowered.com/app/81439',
 'https://store.steampowered.com/app/81438',
 'https://store.steampowered.com/app/81435',
+'https://store.steampowered.com/app/81440',
+'https://store.steampowered.com/app/81442',
+'https://store.steampowered.com/app/81441',
