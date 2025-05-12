@@ -72,3 +72,5 @@
 'https://store.steampowered.com/app/81800',
 'https://store.steampowered.com/app/81864',
 'https://store.steampowered.com/app/81909',
+'https://store.steampowered.com/app/81958',
+'https://store.steampowered.com/app/81943',
