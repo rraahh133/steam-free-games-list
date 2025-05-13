@@ -80,3 +80,4 @@
 'https://store.steampowered.com/app/107610',
 'https://store.steampowered.com/app/108210',
 'https://store.steampowered.com/app/110500',
+'https://store.steampowered.com/app/110520',
