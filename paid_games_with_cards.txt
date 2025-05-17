@@ -973,3 +973,4 @@
 'https://store.steampowered.com/app/226740',
 'https://store.steampowered.com/app/226840',
 'https://store.steampowered.com/app/226860',
+'https://store.steampowered.com/app/226960',
