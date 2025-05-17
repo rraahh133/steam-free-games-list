@@ -709,3 +709,4 @@
 'https://store.steampowered.com/app/207140',
 'https://store.steampowered.com/app/207150',
 'https://store.steampowered.com/app/207320',
+'https://store.steampowered.com/app/207350',
