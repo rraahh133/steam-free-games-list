@@ -800,3 +800,4 @@
 'https://store.steampowered.com/app/216690',
 'https://store.steampowered.com/app/217100',
 'https://store.steampowered.com/app/217140',
+'https://store.steampowered.com/app/217160',
