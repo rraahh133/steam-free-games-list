@@ -50,3 +50,4 @@
 'https://store.steampowered.com/app/215080',
 'https://store.steampowered.com/app/219700',
 'https://store.steampowered.com/app/219830',
+'https://store.steampowered.com/app/223410',
