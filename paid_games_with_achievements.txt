@@ -1936,3 +1936,4 @@
 'https://store.steampowered.com/app/237740',
 'https://store.steampowered.com/app/237760',
 'https://store.steampowered.com/app/237850',
+'https://store.steampowered.com/app/237890',
