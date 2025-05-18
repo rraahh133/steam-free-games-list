@@ -1996,3 +1996,4 @@
 'https://store.steampowered.com/app/242110',
 'https://store.steampowered.com/app/242130',
 'https://store.steampowered.com/app/242530',
+'https://store.steampowered.com/app/242570',
