@@ -120,3 +120,4 @@
 'https://store.steampowered.com/app/250420',
 'https://store.steampowered.com/app/251450',
 'https://store.steampowered.com/app/253710',
+'https://store.steampowered.com/app/255060',
