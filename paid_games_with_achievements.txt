@@ -1998,3 +1998,4 @@
 'https://store.steampowered.com/app/242530',
 'https://store.steampowered.com/app/242570',
 'https://store.steampowered.com/app/242640',
+'https://store.steampowered.com/app/242680',
