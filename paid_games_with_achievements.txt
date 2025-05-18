@@ -2025,3 +2025,4 @@
 'https://store.steampowered.com/app/244210',
 'https://store.steampowered.com/app/244430',
 'https://store.steampowered.com/app/244450',
+'https://store.steampowered.com/app/244730',
