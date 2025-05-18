@@ -1120,3 +1120,4 @@
 'https://store.steampowered.com/app/237620',
 'https://store.steampowered.com/app/237630',
 'https://store.steampowered.com/app/237740',
+'https://store.steampowered.com/app/237850',
