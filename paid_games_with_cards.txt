@@ -1200,3 +1200,4 @@
 'https://store.steampowered.com/app/242880',
 'https://store.steampowered.com/app/243120',
 'https://store.steampowered.com/app/243160',
+'https://store.steampowered.com/app/243200',
