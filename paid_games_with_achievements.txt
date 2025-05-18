@@ -2006,3 +2006,4 @@
 'https://store.steampowered.com/app/242840',
 'https://store.steampowered.com/app/242860',
 'https://store.steampowered.com/app/242920',
+'https://store.steampowered.com/app/243120',
