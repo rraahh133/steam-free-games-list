@@ -2599,3 +2599,4 @@
 'https://store.steampowered.com/app/278810',
 'https://store.steampowered.com/app/278890',
 'https://store.steampowered.com/app/278910',
+'https://store.steampowered.com/app/278930',
