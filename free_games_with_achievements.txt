@@ -128,3 +128,4 @@
 'https://store.steampowered.com/app/262410',
 'https://store.steampowered.com/app/264380',
 'https://store.steampowered.com/app/265630',
+'https://store.steampowered.com/app/266430',
