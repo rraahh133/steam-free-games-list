@@ -1763,3 +1763,6 @@
 'https://store.steampowered.com/app/265141',
 'https://store.steampowered.com/app/265140',
 'https://store.steampowered.com/app/265143',
+'https://store.steampowered.com/app/265191',
+'https://store.steampowered.com/app/265193',
+'https://store.steampowered.com/app/265192',
