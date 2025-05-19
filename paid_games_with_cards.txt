@@ -1943,3 +1943,4 @@
 'https://store.steampowered.com/app/274620',
 'https://store.steampowered.com/app/274900',
 'https://store.steampowered.com/app/274920',
+'https://store.steampowered.com/app/274940',
