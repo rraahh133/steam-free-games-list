@@ -2910,3 +2910,7 @@
 'https://store.steampowered.com/app/308040',
 'https://store.steampowered.com/app/308060',
 'https://store.steampowered.com/app/308080',
+'https://store.steampowered.com/app/308172',
+'https://store.steampowered.com/app/308171',
+'https://store.steampowered.com/app/308173',
+'https://store.steampowered.com/app/308170',
