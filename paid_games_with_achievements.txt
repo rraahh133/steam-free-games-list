@@ -2820,3 +2820,4 @@
 'https://store.steampowered.com/app/291840',
 'https://store.steampowered.com/app/291860',
 'https://store.steampowered.com/app/291910',
+'https://store.steampowered.com/app/291930',
