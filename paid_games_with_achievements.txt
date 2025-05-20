@@ -3115,3 +3115,4 @@
 'https://store.steampowered.com/app/308060',
 'https://store.steampowered.com/app/308080',
 'https://store.steampowered.com/app/308173',
+'https://store.steampowered.com/app/308180',
