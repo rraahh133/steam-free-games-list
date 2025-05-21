@@ -3793,3 +3793,7 @@
 'https://store.steampowered.com/app/338130',
 'https://store.steampowered.com/app/338120',
 'https://store.steampowered.com/app/338140',
+'https://store.steampowered.com/app/338162',
+'https://store.steampowered.com/app/338160',
+'https://store.steampowered.com/app/338161',
+'https://store.steampowered.com/app/338163',
