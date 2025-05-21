@@ -3170,3 +3170,4 @@
 'https://store.steampowered.com/app/312280',
 'https://store.steampowered.com/app/312300',
 'https://store.steampowered.com/app/312330',
+'https://store.steampowered.com/app/312410',
