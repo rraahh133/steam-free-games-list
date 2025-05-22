@@ -4419,3 +4419,4 @@
 'https://store.steampowered.com/app/365560',
 'https://store.steampowered.com/app/365590',
 'https://store.steampowered.com/app/365630',
+'https://store.steampowered.com/app/365660',
