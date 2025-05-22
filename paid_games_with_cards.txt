@@ -4443,3 +4443,5 @@
 'https://store.steampowered.com/app/357010',
 'https://store.steampowered.com/app/357030',
 'https://store.steampowered.com/app/357070',
+'https://store.steampowered.com/app/357090',
+'https://store.steampowered.com/app/357080',
