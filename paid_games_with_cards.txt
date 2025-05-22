@@ -3925,3 +3925,4 @@
 'https://store.steampowered.com/app/342300',
 'https://store.steampowered.com/app/342350',
 'https://store.steampowered.com/app/342360',
+'https://store.steampowered.com/app/342380',
