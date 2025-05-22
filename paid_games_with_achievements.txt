@@ -4030,3 +4030,4 @@
 'https://store.steampowered.com/app/348930',
 'https://store.steampowered.com/app/349020',
 'https://store.steampowered.com/app/349040',
+'https://store.steampowered.com/app/349100',
