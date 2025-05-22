@@ -4513,3 +4513,6 @@
 'https://store.steampowered.com/app/359600',
 'https://store.steampowered.com/app/359670',
 'https://store.steampowered.com/app/359760',
+'https://store.steampowered.com/app/359781',
+'https://store.steampowered.com/app/359780',
+'https://store.steampowered.com/app/359790',
