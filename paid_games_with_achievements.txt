@@ -3809,3 +3809,4 @@
 'https://store.steampowered.com/app/340600',
 'https://store.steampowered.com/app/340630',
 'https://store.steampowered.com/app/340650',
+'https://store.steampowered.com/app/340680',
