@@ -4501,3 +4501,5 @@
 'https://store.steampowered.com/app/359390',
 'https://store.steampowered.com/app/359400',
 'https://store.steampowered.com/app/359420',
+'https://store.steampowered.com/app/359450',
+'https://store.steampowered.com/app/359440',
