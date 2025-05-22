@@ -4009,3 +4009,4 @@
 'https://store.steampowered.com/app/348300',
 'https://store.steampowered.com/app/348320',
 'https://store.steampowered.com/app/348340',
+'https://store.steampowered.com/app/348360',
