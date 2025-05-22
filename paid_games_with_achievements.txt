@@ -4006,3 +4006,4 @@
 'https://store.steampowered.com/app/348240',
 'https://store.steampowered.com/app/348270',
 'https://store.steampowered.com/app/348280',
+'https://store.steampowered.com/app/348300',
