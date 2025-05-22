@@ -3968,3 +3968,4 @@
 'https://store.steampowered.com/app/346820',
 'https://store.steampowered.com/app/346940',
 'https://store.steampowered.com/app/346970',
+'https://store.steampowered.com/app/347000',
