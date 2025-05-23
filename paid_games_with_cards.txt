@@ -4920,3 +4920,4 @@
 'https://store.steampowered.com/app/371300',
 'https://store.steampowered.com/app/371330',
 'https://store.steampowered.com/app/371320',
+'https://store.steampowered.com/app/371350',
