@@ -5202,3 +5202,5 @@
 'https://store.steampowered.com/app/380250',
 'https://store.steampowered.com/app/380260',
 'https://store.steampowered.com/app/380270',
+'https://store.steampowered.com/app/380330',
+'https://store.steampowered.com/app/380320',
