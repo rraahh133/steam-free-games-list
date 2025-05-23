@@ -4988,3 +4988,4 @@
 'https://store.steampowered.com/app/373620',
 'https://store.steampowered.com/app/373730',
 'https://store.steampowered.com/app/373740',
+'https://store.steampowered.com/app/373770',
