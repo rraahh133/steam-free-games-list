@@ -5133,3 +5133,4 @@
 'https://store.steampowered.com/app/393200',
 'https://store.steampowered.com/app/393220',
 'https://store.steampowered.com/app/393230',
+'https://store.steampowered.com/app/393240',
