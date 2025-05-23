@@ -5010,3 +5010,4 @@
 'https://store.steampowered.com/app/387880',
 'https://store.steampowered.com/app/387930',
 'https://store.steampowered.com/app/388010',
+'https://store.steampowered.com/app/388050',
