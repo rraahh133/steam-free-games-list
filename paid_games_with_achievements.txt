@@ -4871,3 +4871,5 @@
 'https://store.steampowered.com/app/382140',
 'https://store.steampowered.com/app/382180',
 'https://store.steampowered.com/app/382270',
+'https://store.steampowered.com/app/382310',
+'https://store.steampowered.com/app/382300',
