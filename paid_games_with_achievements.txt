@@ -5011,3 +5011,4 @@
 'https://store.steampowered.com/app/387930',
 'https://store.steampowered.com/app/388010',
 'https://store.steampowered.com/app/388050',
+'https://store.steampowered.com/app/388060',

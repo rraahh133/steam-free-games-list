@@ -5422,3 +5422,5 @@
 'https://store.steampowered.com/app/388010',
 'https://store.steampowered.com/app/388030',
 'https://store.steampowered.com/app/388050',
+'https://store.steampowered.com/app/388070',
+'https://store.steampowered.com/app/388060',
