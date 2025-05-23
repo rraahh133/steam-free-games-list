@@ -5115,3 +5115,4 @@
 'https://store.steampowered.com/app/392260',
 'https://store.steampowered.com/app/392280',
 'https://store.steampowered.com/app/392370',
+'https://store.steampowered.com/app/392410',
