@@ -5021,3 +5021,5 @@
 'https://store.steampowered.com/app/388410',
 'https://store.steampowered.com/app/388430',
 'https://store.steampowered.com/app/388420',
+'https://store.steampowered.com/app/388440',
+'https://store.steampowered.com/app/388450',
