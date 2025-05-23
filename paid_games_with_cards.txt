@@ -5493,3 +5493,4 @@
 'https://store.steampowered.com/app/390180',
 'https://store.steampowered.com/app/390210',
 'https://store.steampowered.com/app/390200',
+'https://store.steampowered.com/app/390220',
