@@ -4528,3 +4528,4 @@
 'https://store.steampowered.com/app/369110',
 'https://store.steampowered.com/app/369180',
 'https://store.steampowered.com/app/369230',
+'https://store.steampowered.com/app/369290',
