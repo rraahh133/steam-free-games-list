@@ -5610,3 +5610,4 @@
 'https://store.steampowered.com/app/390710',
 'https://store.steampowered.com/app/390720',
 'https://store.steampowered.com/app/390730',
+'https://store.steampowered.com/app/390740',
