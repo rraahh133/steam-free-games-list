@@ -5223,3 +5223,6 @@
 'https://store.steampowered.com/app/380750',
 'https://store.steampowered.com/app/380760',
 'https://store.steampowered.com/app/380810',
+'https://store.steampowered.com/app/380910',
+'https://store.steampowered.com/app/380900',
+'https://store.steampowered.com/app/380901',
