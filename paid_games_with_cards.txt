@@ -5005,3 +5005,4 @@
 'https://store.steampowered.com/app/374460',
 'https://store.steampowered.com/app/374500',
 'https://store.steampowered.com/app/374510',
+'https://store.steampowered.com/app/374520',
