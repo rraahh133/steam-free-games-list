@@ -4550,3 +4550,4 @@
 'https://store.steampowered.com/app/370150',
 'https://store.steampowered.com/app/370140',
 'https://store.steampowered.com/app/370170',
+'https://store.steampowered.com/app/370220',
