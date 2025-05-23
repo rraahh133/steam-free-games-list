@@ -5758,3 +5758,4 @@
 'https://store.steampowered.com/app/395350',
 'https://store.steampowered.com/app/395380',
 'https://store.steampowered.com/app/395400',
+'https://store.steampowered.com/app/395420',
