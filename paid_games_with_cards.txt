@@ -6463,3 +6463,7 @@
 'https://store.steampowered.com/app/420680',
 'https://store.steampowered.com/app/420740',
 'https://store.steampowered.com/app/420770',
+'https://store.steampowered.com/app/420829',
+'https://store.steampowered.com/app/420821',
+'https://store.steampowered.com/app/420826',
+'https://store.steampowered.com/app/420823',
