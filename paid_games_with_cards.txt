@@ -5938,3 +5938,4 @@
 'https://store.steampowered.com/app/401710',
 'https://store.steampowered.com/app/401810',
 'https://store.steampowered.com/app/401820',
+'https://store.steampowered.com/app/401840',
