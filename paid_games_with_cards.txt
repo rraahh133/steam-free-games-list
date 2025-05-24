@@ -5942,3 +5942,5 @@
 'https://store.steampowered.com/app/401920',
 'https://store.steampowered.com/app/402020',
 'https://store.steampowered.com/app/402040',
+'https://store.steampowered.com/app/402120',
+'https://store.steampowered.com/app/402130',
