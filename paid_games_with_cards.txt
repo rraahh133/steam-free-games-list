@@ -6310,3 +6310,5 @@
 'https://store.steampowered.com/app/415910',
 'https://store.steampowered.com/app/415900',
 'https://store.steampowered.com/app/415960',
+'https://store.steampowered.com/app/415990',
+'https://store.steampowered.com/app/415980',
