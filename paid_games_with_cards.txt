@@ -6078,3 +6078,4 @@
 'https://store.steampowered.com/app/407310',
 'https://store.steampowered.com/app/407300',
 'https://store.steampowered.com/app/407330',
+'https://store.steampowered.com/app/407340',
