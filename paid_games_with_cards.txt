@@ -5891,3 +5891,5 @@
 'https://store.steampowered.com/app/400020',
 'https://store.steampowered.com/app/400080',
 'https://store.steampowered.com/app/400130',
+'https://store.steampowered.com/app/400160',
+'https://store.steampowered.com/app/400170',
