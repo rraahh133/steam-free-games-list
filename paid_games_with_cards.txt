@@ -6218,3 +6218,4 @@
 'https://store.steampowered.com/app/412270',
 'https://store.steampowered.com/app/412290',
 'https://store.steampowered.com/app/412310',
+'https://store.steampowered.com/app/412370',
