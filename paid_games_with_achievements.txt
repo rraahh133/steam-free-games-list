@@ -5812,3 +5812,4 @@
 'https://store.steampowered.com/app/424220',
 'https://store.steampowered.com/app/424250',
 'https://store.steampowered.com/app/424260',
+'https://store.steampowered.com/app/424370',
