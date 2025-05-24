@@ -6391,3 +6391,4 @@
 'https://store.steampowered.com/app/418790',
 'https://store.steampowered.com/app/418800',
 'https://store.steampowered.com/app/418820',
+'https://store.steampowered.com/app/418840',
