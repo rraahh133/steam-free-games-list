@@ -5415,3 +5415,4 @@
 'https://store.steampowered.com/app/405670',
 'https://store.steampowered.com/app/405710',
 'https://store.steampowered.com/app/405720',
+'https://store.steampowered.com/app/405760',
