@@ -6055,3 +6055,4 @@
 'https://store.steampowered.com/app/434290',
 'https://store.steampowered.com/app/434310',
 'https://store.steampowered.com/app/434340',
+'https://store.steampowered.com/app/434360',
