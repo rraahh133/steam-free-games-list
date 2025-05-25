@@ -6618,3 +6618,6 @@
 'https://store.steampowered.com/app/428200',
 'https://store.steampowered.com/app/428210',
 'https://store.steampowered.com/app/428220',
+'https://store.steampowered.com/app/428312',
+'https://store.steampowered.com/app/428310',
+'https://store.steampowered.com/app/428311',
