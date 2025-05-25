@@ -7016,3 +7016,6 @@
 'https://store.steampowered.com/app/437630',
 'https://store.steampowered.com/app/437660',
 'https://store.steampowered.com/app/437690',
+'https://store.steampowered.com/app/437700',
+'https://store.steampowered.com/app/437701',
+'https://store.steampowered.com/app/437702',
