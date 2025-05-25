@@ -6059,3 +6059,4 @@
 'https://store.steampowered.com/app/434390',
 'https://store.steampowered.com/app/434410',
 'https://store.steampowered.com/app/434420',
+'https://store.steampowered.com/app/434490',
