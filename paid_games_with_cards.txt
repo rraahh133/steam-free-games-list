@@ -6800,3 +6800,4 @@
 'https://store.steampowered.com/app/434500',
 'https://store.steampowered.com/app/434530',
 'https://store.steampowered.com/app/434570',
+'https://store.steampowered.com/app/434610',
