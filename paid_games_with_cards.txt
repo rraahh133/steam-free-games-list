@@ -6582,3 +6582,4 @@
 'https://store.steampowered.com/app/426630',
 'https://store.steampowered.com/app/426690',
 'https://store.steampowered.com/app/426790',
+'https://store.steampowered.com/app/426960',
