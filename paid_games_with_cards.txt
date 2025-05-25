@@ -7058,3 +7058,4 @@
 'https://store.steampowered.com/app/439250',
 'https://store.steampowered.com/app/439310',
 'https://store.steampowered.com/app/439490',
+'https://store.steampowered.com/app/439530',
