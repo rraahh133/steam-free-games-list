@@ -6740,3 +6740,4 @@
 'https://store.steampowered.com/app/432380',
 'https://store.steampowered.com/app/432410',
 'https://store.steampowered.com/app/432470',
+'https://store.steampowered.com/app/432490',
