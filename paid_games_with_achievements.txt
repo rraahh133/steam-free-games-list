@@ -6125,3 +6125,4 @@
 'https://store.steampowered.com/app/436480',
 'https://store.steampowered.com/app/436490',
 'https://store.steampowered.com/app/436500',
+'https://store.steampowered.com/app/436530',
