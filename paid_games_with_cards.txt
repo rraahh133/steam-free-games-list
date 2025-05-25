@@ -7201,3 +7201,4 @@
 'https://store.steampowered.com/app/445600',
 'https://store.steampowered.com/app/445690',
 'https://store.steampowered.com/app/445710',
+'https://store.steampowered.com/app/445770',
