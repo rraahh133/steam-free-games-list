@@ -7005,3 +7005,5 @@
 'https://store.steampowered.com/app/437250',
 'https://store.steampowered.com/app/437360',
 'https://store.steampowered.com/app/437390',
+'https://store.steampowered.com/app/437430',
+'https://store.steampowered.com/app/437420',
