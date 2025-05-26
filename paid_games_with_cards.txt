@@ -8066,3 +8066,4 @@
 'https://store.steampowered.com/app/473770',
 'https://store.steampowered.com/app/473810',
 'https://store.steampowered.com/app/473840',
+'https://store.steampowered.com/app/473920',
