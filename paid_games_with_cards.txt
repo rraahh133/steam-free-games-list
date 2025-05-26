@@ -7809,3 +7809,7 @@
 'https://store.steampowered.com/app/463860',
 'https://store.steampowered.com/app/463870',
 'https://store.steampowered.com/app/463880',
+'https://store.steampowered.com/app/463900',
+'https://store.steampowered.com/app/463902',
+'https://store.steampowered.com/app/463903',
+'https://store.steampowered.com/app/463904',
