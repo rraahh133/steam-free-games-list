@@ -6925,3 +6925,4 @@
 'https://store.steampowered.com/app/471330',
 'https://store.steampowered.com/app/471380',
 'https://store.steampowered.com/app/471550',
+'https://store.steampowered.com/app/471570',
