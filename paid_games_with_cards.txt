@@ -8050,3 +8050,4 @@
 'https://store.steampowered.com/app/472750',
 'https://store.steampowered.com/app/472830',
 'https://store.steampowered.com/app/472850',
+'https://store.steampowered.com/app/472870',
