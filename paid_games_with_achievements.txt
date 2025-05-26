@@ -6905,3 +6905,4 @@
 'https://store.steampowered.com/app/470140',
 'https://store.steampowered.com/app/470160',
 'https://store.steampowered.com/app/470210',
+'https://store.steampowered.com/app/470220',
