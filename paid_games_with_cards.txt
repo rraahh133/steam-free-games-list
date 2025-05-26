@@ -8002,3 +8002,5 @@
 'https://store.steampowered.com/app/469710',
 'https://store.steampowered.com/app/469720',
 'https://store.steampowered.com/app/469730',
+'https://store.steampowered.com/app/469740',
+'https://store.steampowered.com/app/469750',
