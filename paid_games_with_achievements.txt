@@ -6930,3 +6930,4 @@
 'https://store.steampowered.com/app/471700',
 'https://store.steampowered.com/app/471730',
 'https://store.steampowered.com/app/471810',
+'https://store.steampowered.com/app/471880',
