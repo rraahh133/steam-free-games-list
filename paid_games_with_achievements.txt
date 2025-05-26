@@ -6833,3 +6833,5 @@
 'https://store.steampowered.com/app/466740',
 'https://store.steampowered.com/app/466770',
 'https://store.steampowered.com/app/466780',
+'https://store.steampowered.com/app/466800',
+'https://store.steampowered.com/app/466810',
