@@ -420,3 +420,4 @@
 'https://store.steampowered.com/app/452230',
 'https://store.steampowered.com/app/454070',
 'https://store.steampowered.com/app/454240',
+'https://store.steampowered.com/app/454540',
