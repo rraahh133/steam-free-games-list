@@ -6757,3 +6757,4 @@
 'https://store.steampowered.com/app/463540',
 'https://store.steampowered.com/app/463700',
 'https://store.steampowered.com/app/463730',
+'https://store.steampowered.com/app/463760',
