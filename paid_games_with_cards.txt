@@ -7892,3 +7892,5 @@
 'https://store.steampowered.com/app/466030',
 'https://store.steampowered.com/app/466130',
 'https://store.steampowered.com/app/466160',
+'https://store.steampowered.com/app/466200',
+'https://store.steampowered.com/app/466210',
