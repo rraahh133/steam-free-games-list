@@ -7883,3 +7883,8 @@
 'https://store.steampowered.com/app/465720',
 'https://store.steampowered.com/app/465750',
 'https://store.steampowered.com/app/465760',
+'https://store.steampowered.com/app/465830',
+'https://store.steampowered.com/app/465831',
+'https://store.steampowered.com/app/465833',
+'https://store.steampowered.com/app/465834',
+'https://store.steampowered.com/app/465832',
