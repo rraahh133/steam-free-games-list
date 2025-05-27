@@ -8340,3 +8340,7 @@
 'https://store.steampowered.com/app/488730',
 'https://store.steampowered.com/app/488750',
 'https://store.steampowered.com/app/488790',
+'https://store.steampowered.com/app/488811',
+'https://store.steampowered.com/app/488812',
+'https://store.steampowered.com/app/488810',
+'https://store.steampowered.com/app/488800',
