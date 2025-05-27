@@ -8857,3 +8857,4 @@
 'https://store.steampowered.com/app/504560',
 'https://store.steampowered.com/app/504590',
 'https://store.steampowered.com/app/504670',
+'https://store.steampowered.com/app/504690',
