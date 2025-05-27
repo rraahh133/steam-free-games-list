@@ -8205,3 +8205,4 @@
 'https://store.steampowered.com/app/483790',
 'https://store.steampowered.com/app/483820',
 'https://store.steampowered.com/app/483830',
+'https://store.steampowered.com/app/483840',
