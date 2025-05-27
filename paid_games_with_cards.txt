@@ -8744,3 +8744,4 @@
 'https://store.steampowered.com/app/500760',
 'https://store.steampowered.com/app/500790',
 'https://store.steampowered.com/app/500830',
+'https://store.steampowered.com/app/500850',
