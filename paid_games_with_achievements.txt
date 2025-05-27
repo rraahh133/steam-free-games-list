@@ -7203,3 +7203,4 @@
 'https://store.steampowered.com/app/491090',
 'https://store.steampowered.com/app/491100',
 'https://store.steampowered.com/app/491130',
+'https://store.steampowered.com/app/491160',
