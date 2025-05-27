@@ -8776,3 +8776,4 @@
 'https://store.steampowered.com/app/501840',
 'https://store.steampowered.com/app/501890',
 'https://store.steampowered.com/app/501940',
+'https://store.steampowered.com/app/502070',
