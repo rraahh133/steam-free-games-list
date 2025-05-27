@@ -8290,3 +8290,4 @@
 'https://store.steampowered.com/app/486570',
 'https://store.steampowered.com/app/486630',
 'https://store.steampowered.com/app/486640',
+'https://store.steampowered.com/app/486660',
