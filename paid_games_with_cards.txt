@@ -8611,3 +8611,4 @@
 'https://store.steampowered.com/app/496320',
 'https://store.steampowered.com/app/496350',
 'https://store.steampowered.com/app/496390',
+'https://store.steampowered.com/app/496400',
