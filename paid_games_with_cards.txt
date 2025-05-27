@@ -8765,3 +8765,4 @@
 'https://store.steampowered.com/app/501440',
 'https://store.steampowered.com/app/501460',
 'https://store.steampowered.com/app/501480',
+'https://store.steampowered.com/app/501530',
