@@ -7309,3 +7309,4 @@
 'https://store.steampowered.com/app/495660',
 'https://store.steampowered.com/app/495680',
 'https://store.steampowered.com/app/495720',
+'https://store.steampowered.com/app/495820',
