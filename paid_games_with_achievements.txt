@@ -7410,3 +7410,4 @@
 'https://store.steampowered.com/app/500090',
 'https://store.steampowered.com/app/500170',
 'https://store.steampowered.com/app/500180',
+'https://store.steampowered.com/app/500260',
