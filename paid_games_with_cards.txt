@@ -8889,3 +8889,4 @@
 'https://store.steampowered.com/app/506560',
 'https://store.steampowered.com/app/506590',
 'https://store.steampowered.com/app/506730',
+'https://store.steampowered.com/app/506760',
