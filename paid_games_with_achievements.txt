@@ -7463,3 +7463,4 @@
 'https://store.steampowered.com/app/502500',
 'https://store.steampowered.com/app/502520',
 'https://store.steampowered.com/app/502540',
+'https://store.steampowered.com/app/502600',
