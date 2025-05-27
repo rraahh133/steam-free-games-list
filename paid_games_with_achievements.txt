@@ -7470,3 +7470,4 @@
 'https://store.steampowered.com/app/502730',
 'https://store.steampowered.com/app/502720',
 'https://store.steampowered.com/app/502740',
+'https://store.steampowered.com/app/502770',
