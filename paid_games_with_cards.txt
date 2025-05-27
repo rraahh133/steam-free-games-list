@@ -8186,3 +8186,8 @@
 'https://store.steampowered.com/app/481510',
 'https://store.steampowered.com/app/481600',
 'https://store.steampowered.com/app/481870',
+'https://store.steampowered.com/app/482224',
+'https://store.steampowered.com/app/482220',
+'https://store.steampowered.com/app/482223',
+'https://store.steampowered.com/app/482221',
+'https://store.steampowered.com/app/482222',
