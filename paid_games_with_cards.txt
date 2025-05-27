@@ -8630,3 +8630,7 @@
 'https://store.steampowered.com/app/496810',
 'https://store.steampowered.com/app/496890',
 'https://store.steampowered.com/app/496930',
+'https://store.steampowered.com/app/496970',
+'https://store.steampowered.com/app/496972',
+'https://store.steampowered.com/app/496971',
+'https://store.steampowered.com/app/496960',
