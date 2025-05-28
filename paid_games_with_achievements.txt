@@ -8093,3 +8093,5 @@
 'https://store.steampowered.com/app/530950',
 'https://store.steampowered.com/app/530960',
 'https://store.steampowered.com/app/531070',
+'https://store.steampowered.com/app/531110',
+'https://store.steampowered.com/app/531100',
