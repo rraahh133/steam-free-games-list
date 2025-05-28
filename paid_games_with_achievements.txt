@@ -7920,3 +7920,4 @@
 'https://store.steampowered.com/app/523160',
 'https://store.steampowered.com/app/523210',
 'https://store.steampowered.com/app/523260',
+'https://store.steampowered.com/app/523550',
