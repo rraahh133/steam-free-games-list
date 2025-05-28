@@ -8010,3 +8010,5 @@
 'https://store.steampowered.com/app/527730',
 'https://store.steampowered.com/app/527720',
 'https://store.steampowered.com/app/527740',
+'https://store.steampowered.com/app/527760',
+'https://store.steampowered.com/app/527770',
