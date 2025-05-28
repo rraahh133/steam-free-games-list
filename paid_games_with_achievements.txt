@@ -8150,3 +8150,4 @@
 'https://store.steampowered.com/app/534230',
 'https://store.steampowered.com/app/534240',
 'https://store.steampowered.com/app/534290',
+'https://store.steampowered.com/app/534320',
