@@ -9728,3 +9728,4 @@
 'https://store.steampowered.com/app/534780',
 'https://store.steampowered.com/app/534840',
 'https://store.steampowered.com/app/534910',
+'https://store.steampowered.com/app/534970',
