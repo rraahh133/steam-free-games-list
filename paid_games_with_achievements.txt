@@ -8175,3 +8175,4 @@
 'https://store.steampowered.com/app/535750',
 'https://store.steampowered.com/app/535810',
 'https://store.steampowered.com/app/535850',
+'https://store.steampowered.com/app/535890',
