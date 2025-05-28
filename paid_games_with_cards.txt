@@ -9211,3 +9211,4 @@
 'https://store.steampowered.com/app/513370',
 'https://store.steampowered.com/app/513440',
 'https://store.steampowered.com/app/513460',
+'https://store.steampowered.com/app/513480',
