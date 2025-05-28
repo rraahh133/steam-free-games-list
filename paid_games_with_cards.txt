@@ -9470,3 +9470,4 @@
 'https://store.steampowered.com/app/525190',
 'https://store.steampowered.com/app/525220',
 'https://store.steampowered.com/app/525221',
+'https://store.steampowered.com/app/525240',
