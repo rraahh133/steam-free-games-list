@@ -8030,3 +8030,5 @@
 'https://store.steampowered.com/app/528420',
 'https://store.steampowered.com/app/528510',
 'https://store.steampowered.com/app/528610',
+'https://store.steampowered.com/app/528670',
+'https://store.steampowered.com/app/528660',
