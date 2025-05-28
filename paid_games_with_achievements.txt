@@ -7908,3 +7908,4 @@
 'https://store.steampowered.com/app/522570',
 'https://store.steampowered.com/app/522680',
 'https://store.steampowered.com/app/522710',
+'https://store.steampowered.com/app/522740',
