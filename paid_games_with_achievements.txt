@@ -8045,3 +8045,4 @@
 'https://store.steampowered.com/app/529160',
 'https://store.steampowered.com/app/529180',
 'https://store.steampowered.com/app/529280',
+'https://store.steampowered.com/app/529340',
