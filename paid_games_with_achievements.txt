@@ -8168,3 +8168,4 @@
 'https://store.steampowered.com/app/535240',
 'https://store.steampowered.com/app/535380',
 'https://store.steampowered.com/app/535440',
+'https://store.steampowered.com/app/535480',
