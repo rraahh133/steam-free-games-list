@@ -9699,3 +9699,4 @@
 'https://store.steampowered.com/app/533602',
 'https://store.steampowered.com/app/533600',
 'https://store.steampowered.com/app/533601',
+'https://store.steampowered.com/app/533660',
