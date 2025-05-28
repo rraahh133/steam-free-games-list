@@ -9733,3 +9733,4 @@
 'https://store.steampowered.com/app/534980',
 'https://store.steampowered.com/app/535000',
 'https://store.steampowered.com/app/535130',
+'https://store.steampowered.com/app/535160',
