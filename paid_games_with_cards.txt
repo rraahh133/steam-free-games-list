@@ -9142,3 +9142,8 @@
 'https://store.steampowered.com/app/511840',
 'https://store.steampowered.com/app/511960',
 'https://store.steampowered.com/app/511970',
+'https://store.steampowered.com/app/512032',
+'https://store.steampowered.com/app/512034',
+'https://store.steampowered.com/app/512035',
+'https://store.steampowered.com/app/512033',
+'https://store.steampowered.com/app/512020',
