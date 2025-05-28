@@ -9161,3 +9161,4 @@
 'https://store.steampowered.com/app/512314',
 'https://store.steampowered.com/app/512311',
 'https://store.steampowered.com/app/512312',
+'https://store.steampowered.com/app/512370',
