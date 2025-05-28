@@ -8098,3 +8098,4 @@
 'https://store.steampowered.com/app/531180',
 'https://store.steampowered.com/app/531210',
 'https://store.steampowered.com/app/531220',
+'https://store.steampowered.com/app/531240',
