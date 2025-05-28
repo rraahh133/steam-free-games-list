@@ -7769,3 +7769,4 @@
 'https://store.steampowered.com/app/515470',
 'https://store.steampowered.com/app/515570',
 'https://store.steampowered.com/app/515650',
+'https://store.steampowered.com/app/515690',
