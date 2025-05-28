@@ -7622,3 +7622,5 @@
 'https://store.steampowered.com/app/510290',
 'https://store.steampowered.com/app/510360',
 'https://store.steampowered.com/app/510390',
+'https://store.steampowered.com/app/510430',
+'https://store.steampowered.com/app/510420',
