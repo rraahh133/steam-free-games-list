@@ -9149,3 +9149,4 @@
 'https://store.steampowered.com/app/512020',
 'https://store.steampowered.com/app/512060',
 'https://store.steampowered.com/app/512070',
+'https://store.steampowered.com/app/512160',
