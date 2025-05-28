@@ -9383,3 +9383,4 @@
 'https://store.steampowered.com/app/521250',
 'https://store.steampowered.com/app/521280',
 'https://store.steampowered.com/app/521340',
+'https://store.steampowered.com/app/521370',
