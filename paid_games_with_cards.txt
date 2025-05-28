@@ -9770,3 +9770,4 @@
 'https://store.steampowered.com/app/536430',
 'https://store.steampowered.com/app/536420',
 'https://store.steampowered.com/app/536450',
+'https://store.steampowered.com/app/536490',
