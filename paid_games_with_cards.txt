@@ -9719,3 +9719,4 @@
 'https://store.steampowered.com/app/534320',
 'https://store.steampowered.com/app/534341',
 'https://store.steampowered.com/app/534340',
+'https://store.steampowered.com/app/534370',
