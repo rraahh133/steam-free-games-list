@@ -9355,3 +9355,4 @@
 'https://store.steampowered.com/app/520320',
 'https://store.steampowered.com/app/520370',
 'https://store.steampowered.com/app/520430',
+'https://store.steampowered.com/app/520440',
