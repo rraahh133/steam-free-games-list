@@ -8169,3 +8169,4 @@
 'https://store.steampowered.com/app/535380',
 'https://store.steampowered.com/app/535440',
 'https://store.steampowered.com/app/535480',
+'https://store.steampowered.com/app/535520',
