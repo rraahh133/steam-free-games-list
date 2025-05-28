@@ -7863,3 +7863,4 @@
 'https://store.steampowered.com/app/520380',
 'https://store.steampowered.com/app/520440',
 'https://store.steampowered.com/app/520470',
+'https://store.steampowered.com/app/520530',
