@@ -8028,3 +8028,4 @@
 'https://store.steampowered.com/app/528300',
 'https://store.steampowered.com/app/528430',
 'https://store.steampowered.com/app/528420',
+'https://store.steampowered.com/app/528510',
