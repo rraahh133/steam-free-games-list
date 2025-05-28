@@ -8070,3 +8070,5 @@
 'https://store.steampowered.com/app/530050',
 'https://store.steampowered.com/app/530070',
 'https://store.steampowered.com/app/530110',
+'https://store.steampowered.com/app/530120',
+'https://store.steampowered.com/app/530130',
