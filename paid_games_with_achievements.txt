@@ -8160,3 +8160,4 @@
 'https://store.steampowered.com/app/534680',
 'https://store.steampowered.com/app/534780',
 'https://store.steampowered.com/app/534910',
+'https://store.steampowered.com/app/534920',
