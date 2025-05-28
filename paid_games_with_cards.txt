@@ -9710,3 +9710,5 @@
 'https://store.steampowered.com/app/533960',
 'https://store.steampowered.com/app/534010',
 'https://store.steampowered.com/app/534030',
+'https://store.steampowered.com/app/534200',
+'https://store.steampowered.com/app/534210',
