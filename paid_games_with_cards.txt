@@ -8935,3 +8935,4 @@
 'https://store.steampowered.com/app/508710',
 'https://store.steampowered.com/app/508730',
 'https://store.steampowered.com/app/508740',
+'https://store.steampowered.com/app/508760',
