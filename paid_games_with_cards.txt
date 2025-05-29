@@ -10005,3 +10005,4 @@
 'https://store.steampowered.com/app/543460',
 'https://store.steampowered.com/app/543470',
 'https://store.steampowered.com/app/543480',
+'https://store.steampowered.com/app/543520',
