@@ -10540,3 +10540,4 @@
 'https://store.steampowered.com/app/562480',
 'https://store.steampowered.com/app/562490',
 'https://store.steampowered.com/app/562500',
+'https://store.steampowered.com/app/562520',
