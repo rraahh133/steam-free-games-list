@@ -8315,3 +8315,4 @@
 'https://store.steampowered.com/app/543180',
 'https://store.steampowered.com/app/543240',
 'https://store.steampowered.com/app/543260',
+'https://store.steampowered.com/app/543360',
