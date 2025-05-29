@@ -10413,3 +10413,6 @@
 'https://store.steampowered.com/app/559250',
 'https://store.steampowered.com/app/559350',
 'https://store.steampowered.com/app/559370',
+'https://store.steampowered.com/app/559381',
+'https://store.steampowered.com/app/559382',
+'https://store.steampowered.com/app/559380',
