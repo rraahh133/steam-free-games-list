@@ -9902,3 +9902,5 @@
 'https://store.steampowered.com/app/539800',
 'https://store.steampowered.com/app/539820',
 'https://store.steampowered.com/app/539830',
+'https://store.steampowered.com/app/539840',
+'https://store.steampowered.com/app/539850',
