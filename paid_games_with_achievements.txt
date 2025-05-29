@@ -8811,3 +8811,5 @@
 'https://store.steampowered.com/app/564040',
 'https://store.steampowered.com/app/564070',
 'https://store.steampowered.com/app/564100',
+'https://store.steampowered.com/app/564140',
+'https://store.steampowered.com/app/564150',
