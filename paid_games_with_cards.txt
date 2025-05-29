@@ -10400,3 +10400,6 @@
 'https://store.steampowered.com/app/558450',
 'https://store.steampowered.com/app/558490',
 'https://store.steampowered.com/app/558630',
+'https://store.steampowered.com/app/558762',
+'https://store.steampowered.com/app/558760',
+'https://store.steampowered.com/app/558761',
