@@ -9853,3 +9853,5 @@
 'https://store.steampowered.com/app/538610',
 'https://store.steampowered.com/app/538680',
 'https://store.steampowered.com/app/538700',
+'https://store.steampowered.com/app/538740',
+'https://store.steampowered.com/app/538750',
