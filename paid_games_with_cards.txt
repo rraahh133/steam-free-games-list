@@ -9931,3 +9931,6 @@
 'https://store.steampowered.com/app/540682',
 'https://store.steampowered.com/app/540680',
 'https://store.steampowered.com/app/540690',
+'https://store.steampowered.com/app/540720',
+'https://store.steampowered.com/app/540721',
+'https://store.steampowered.com/app/540730',
