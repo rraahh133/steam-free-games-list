@@ -8439,3 +8439,4 @@
 'https://store.steampowered.com/app/548130',
 'https://store.steampowered.com/app/548220',
 'https://store.steampowered.com/app/548230',
+'https://store.steampowered.com/app/548240',
