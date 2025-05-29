@@ -8628,3 +8628,4 @@
 'https://store.steampowered.com/app/555930',
 'https://store.steampowered.com/app/555950',
 'https://store.steampowered.com/app/556000',
+'https://store.steampowered.com/app/556050',
