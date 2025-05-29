@@ -9925,3 +9925,4 @@
 'https://store.steampowered.com/app/540190',
 'https://store.steampowered.com/app/540200',
 'https://store.steampowered.com/app/540570',
+'https://store.steampowered.com/app/540610',
