@@ -9185,3 +9185,4 @@
 'https://store.steampowered.com/app/582160',
 'https://store.steampowered.com/app/582270',
 'https://store.steampowered.com/app/582290',
+'https://store.steampowered.com/app/582330',
