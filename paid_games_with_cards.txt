@@ -11090,3 +11090,4 @@
 'https://store.steampowered.com/app/583040',
 'https://store.steampowered.com/app/583090',
 'https://store.steampowered.com/app/583140',
+'https://store.steampowered.com/app/583240',
