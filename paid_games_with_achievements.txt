@@ -8855,3 +8855,4 @@
 'https://store.steampowered.com/app/566870',
 'https://store.steampowered.com/app/566880',
 'https://store.steampowered.com/app/566900',
+'https://store.steampowered.com/app/566970',
