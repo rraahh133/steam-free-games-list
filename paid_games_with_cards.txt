@@ -10815,3 +10815,4 @@
 'https://store.steampowered.com/app/572750',
 'https://store.steampowered.com/app/572760',
 'https://store.steampowered.com/app/572890',
+'https://store.steampowered.com/app/573040',
