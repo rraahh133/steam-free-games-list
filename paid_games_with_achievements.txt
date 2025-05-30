@@ -9405,3 +9405,4 @@
 'https://store.steampowered.com/app/592400',
 'https://store.steampowered.com/app/592480',
 'https://store.steampowered.com/app/592550',
+'https://store.steampowered.com/app/592570',
