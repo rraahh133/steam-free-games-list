@@ -9285,3 +9285,4 @@
 'https://store.steampowered.com/app/587110',
 'https://store.steampowered.com/app/587100',
 'https://store.steampowered.com/app/587180',
+'https://store.steampowered.com/app/587260',
