@@ -9200,3 +9200,4 @@
 'https://store.steampowered.com/app/582920',
 'https://store.steampowered.com/app/582980',
 'https://store.steampowered.com/app/582990',
+'https://store.steampowered.com/app/583000',
