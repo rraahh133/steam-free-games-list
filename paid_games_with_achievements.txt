@@ -9139,3 +9139,4 @@
 'https://store.steampowered.com/app/579180',
 'https://store.steampowered.com/app/579210',
 'https://store.steampowered.com/app/579230',
+'https://store.steampowered.com/app/579490',
