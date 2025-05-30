@@ -9178,3 +9178,4 @@
 'https://store.steampowered.com/app/581600',
 'https://store.steampowered.com/app/581660',
 'https://store.steampowered.com/app/581740',
+'https://store.steampowered.com/app/581760',
