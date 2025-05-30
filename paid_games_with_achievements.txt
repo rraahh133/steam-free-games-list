@@ -9145,3 +9145,4 @@
 'https://store.steampowered.com/app/579840',
 'https://store.steampowered.com/app/579870',
 'https://store.steampowered.com/app/579950',
+'https://store.steampowered.com/app/580040',
