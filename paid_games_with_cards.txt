@@ -11953,3 +11953,5 @@
 'https://store.steampowered.com/app/617000',
 'https://store.steampowered.com/app/617001',
 'https://store.steampowered.com/app/617010',
+'https://store.steampowered.com/app/617020',
+'https://store.steampowered.com/app/617030',
