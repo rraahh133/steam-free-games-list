@@ -9722,3 +9722,4 @@
 'https://store.steampowered.com/app/606870',
 'https://store.steampowered.com/app/606880',
 'https://store.steampowered.com/app/606890',
+'https://store.steampowered.com/app/606950',
