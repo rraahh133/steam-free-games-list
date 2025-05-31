@@ -9844,3 +9844,4 @@
 'https://store.steampowered.com/app/612890',
 'https://store.steampowered.com/app/612950',
 'https://store.steampowered.com/app/612970',
+'https://store.steampowered.com/app/613010',
