@@ -12019,3 +12019,4 @@
 'https://store.steampowered.com/app/618770',
 'https://store.steampowered.com/app/618760',
 'https://store.steampowered.com/app/618950',
+'https://store.steampowered.com/app/618970',
