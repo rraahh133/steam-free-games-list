@@ -9485,3 +9485,4 @@
 'https://store.steampowered.com/app/596370',
 'https://store.steampowered.com/app/596380',
 'https://store.steampowered.com/app/596390',
+'https://store.steampowered.com/app/596500',
