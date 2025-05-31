@@ -9545,3 +9545,4 @@
 'https://store.steampowered.com/app/598940',
 'https://store.steampowered.com/app/598960',
 'https://store.steampowered.com/app/598980',
+'https://store.steampowered.com/app/599010',
