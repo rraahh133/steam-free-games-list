@@ -9468,3 +9468,4 @@
 'https://store.steampowered.com/app/595520',
 'https://store.steampowered.com/app/595550',
 'https://store.steampowered.com/app/595560',
+'https://store.steampowered.com/app/595660',
