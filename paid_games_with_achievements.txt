@@ -10029,3 +10029,4 @@
 'https://store.steampowered.com/app/621940',
 'https://store.steampowered.com/app/621970',
 'https://store.steampowered.com/app/622020',
+'https://store.steampowered.com/app/622050',
