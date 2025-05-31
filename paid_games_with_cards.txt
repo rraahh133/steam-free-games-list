@@ -12006,3 +12006,7 @@
 'https://store.steampowered.com/app/618660',
 'https://store.steampowered.com/app/618662',
 'https://store.steampowered.com/app/618661',
+'https://store.steampowered.com/app/618680',
+'https://store.steampowered.com/app/618681',
+'https://store.steampowered.com/app/618682',
+'https://store.steampowered.com/app/618690',
