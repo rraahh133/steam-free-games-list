@@ -11728,3 +11728,4 @@
 'https://store.steampowered.com/app/606730',
 'https://store.steampowered.com/app/606800',
 'https://store.steampowered.com/app/606860',
+'https://store.steampowered.com/app/606890',
