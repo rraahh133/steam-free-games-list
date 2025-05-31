@@ -9550,3 +9550,4 @@
 'https://store.steampowered.com/app/599060',
 'https://store.steampowered.com/app/599080',
 'https://store.steampowered.com/app/599140',
+'https://store.steampowered.com/app/599160',
