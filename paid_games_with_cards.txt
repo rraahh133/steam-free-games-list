@@ -11470,3 +11470,4 @@
 'https://store.steampowered.com/app/594570',
 'https://store.steampowered.com/app/594630',
 'https://store.steampowered.com/app/594650',
+'https://store.steampowered.com/app/594680',
