@@ -11643,3 +11643,4 @@
 'https://store.steampowered.com/app/603320',
 'https://store.steampowered.com/app/603330',
 'https://store.steampowered.com/app/603350',
+'https://store.steampowered.com/app/603360',
