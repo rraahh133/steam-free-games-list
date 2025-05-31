@@ -9588,3 +9588,4 @@
 'https://store.steampowered.com/app/600990',
 'https://store.steampowered.com/app/601010',
 'https://store.steampowered.com/app/601020',
+'https://store.steampowered.com/app/601050',
