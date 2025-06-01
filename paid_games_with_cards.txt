@@ -12189,3 +12189,4 @@
 'https://store.steampowered.com/app/626810',
 'https://store.steampowered.com/app/627070',
 'https://store.steampowered.com/app/627220',
+'https://store.steampowered.com/app/627270',
