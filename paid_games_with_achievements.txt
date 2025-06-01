@@ -10485,3 +10485,4 @@
 'https://store.steampowered.com/app/650560',
 'https://store.steampowered.com/app/650580',
 'https://store.steampowered.com/app/650680',
+'https://store.steampowered.com/app/650710',
