@@ -12154,3 +12154,5 @@
 'https://store.steampowered.com/app/624970',
 'https://store.steampowered.com/app/625050',
 'https://store.steampowered.com/app/625120',
+'https://store.steampowered.com/app/625170',
+'https://store.steampowered.com/app/625172',
