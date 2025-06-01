@@ -10318,3 +10318,4 @@
 'https://store.steampowered.com/app/639470',
 'https://store.steampowered.com/app/639490',
 'https://store.steampowered.com/app/639510',
+'https://store.steampowered.com/app/639580',
