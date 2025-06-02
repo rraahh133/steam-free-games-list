@@ -11045,3 +11045,4 @@
 'https://store.steampowered.com/app/673920',
 'https://store.steampowered.com/app/673950',
 'https://store.steampowered.com/app/673980',
+'https://store.steampowered.com/app/674140',
