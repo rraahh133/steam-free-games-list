@@ -12809,3 +12809,4 @@
 'https://store.steampowered.com/app/659710',
 'https://store.steampowered.com/app/659930',
 'https://store.steampowered.com/app/660050',
+'https://store.steampowered.com/app/660060',
