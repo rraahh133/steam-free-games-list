@@ -13262,3 +13262,8 @@
 'https://store.steampowered.com/app/707840',
 'https://store.steampowered.com/app/708490',
 'https://store.steampowered.com/app/708500',
+'https://store.steampowered.com/app/708522',
+'https://store.steampowered.com/app/708520',
+'https://store.steampowered.com/app/708521',
+'https://store.steampowered.com/app/708523',
+'https://store.steampowered.com/app/708530',
