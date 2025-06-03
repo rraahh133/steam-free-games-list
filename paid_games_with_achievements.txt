@@ -11598,3 +11598,4 @@
 'https://store.steampowered.com/app/700050',
 'https://store.steampowered.com/app/700100',
 'https://store.steampowered.com/app/700150',
+'https://store.steampowered.com/app/700160',
