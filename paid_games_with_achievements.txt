@@ -12030,3 +12030,4 @@
 'https://store.steampowered.com/app/720350',
 'https://store.steampowered.com/app/720480',
 'https://store.steampowered.com/app/720560',
+'https://store.steampowered.com/app/720660',
