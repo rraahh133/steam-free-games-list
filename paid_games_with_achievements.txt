@@ -12021,3 +12021,5 @@
 'https://store.steampowered.com/app/719750',
 'https://store.steampowered.com/app/719800',
 'https://store.steampowered.com/app/719930',
+'https://store.steampowered.com/app/720020',
+'https://store.steampowered.com/app/720030',
