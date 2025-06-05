@@ -12620,3 +12620,4 @@
 'https://store.steampowered.com/app/749370',
 'https://store.steampowered.com/app/749410',
 'https://store.steampowered.com/app/749470',
+'https://store.steampowered.com/app/749490',
