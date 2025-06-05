@@ -12439,3 +12439,4 @@
 'https://store.steampowered.com/app/740400',
 'https://store.steampowered.com/app/740410',
 'https://store.steampowered.com/app/740520',
+'https://store.steampowered.com/app/740550',
