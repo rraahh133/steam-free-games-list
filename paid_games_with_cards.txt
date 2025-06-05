@@ -13888,3 +13888,4 @@
 'https://store.steampowered.com/app/760060',
 'https://store.steampowered.com/app/760410',
 'https://store.steampowered.com/app/760650',
+'https://store.steampowered.com/app/760720',
