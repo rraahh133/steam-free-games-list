@@ -13120,3 +13120,5 @@
 'https://store.steampowered.com/app/772200',
 'https://store.steampowered.com/app/772230',
 'https://store.steampowered.com/app/772290',
+'https://store.steampowered.com/app/772320',
+'https://store.steampowered.com/app/772330',
