@@ -14003,3 +14003,5 @@
 'https://store.steampowered.com/app/812040',
 'https://store.steampowered.com/app/812070',
 'https://store.steampowered.com/app/812140',
+'https://store.steampowered.com/app/812170',
+'https://store.steampowered.com/app/812160',
