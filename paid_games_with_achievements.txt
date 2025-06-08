@@ -14600,3 +14600,4 @@
 'https://store.steampowered.com/app/841340',
 'https://store.steampowered.com/app/841350',
 'https://store.steampowered.com/app/841370',
+'https://store.steampowered.com/app/841570',
