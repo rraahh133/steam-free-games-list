@@ -14673,3 +14673,5 @@
 'https://store.steampowered.com/app/844500',
 'https://store.steampowered.com/app/844590',
 'https://store.steampowered.com/app/844580',
+'https://store.steampowered.com/app/844660',
+'https://store.steampowered.com/app/844670',
