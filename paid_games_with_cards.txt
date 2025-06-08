@@ -14430,3 +14430,4 @@
 'https://store.steampowered.com/app/820201',
 'https://store.steampowered.com/app/820200',
 'https://store.steampowered.com/app/820203',
+'https://store.steampowered.com/app/820470',
