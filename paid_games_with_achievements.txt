@@ -14918,3 +14918,4 @@
 'https://store.steampowered.com/app/855760',
 'https://store.steampowered.com/app/855850',
 'https://store.steampowered.com/app/856030',
+'https://store.steampowered.com/app/856040',
