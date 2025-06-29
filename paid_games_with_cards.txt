@@ -15513,3 +15513,7 @@
 'https://store.steampowered.com/app/933491',
 'https://store.steampowered.com/app/933490',
 'https://store.steampowered.com/app/933493',
+'https://store.steampowered.com/app/933502',
+'https://store.steampowered.com/app/933500',
+'https://store.steampowered.com/app/933504',
+'https://store.steampowered.com/app/933501',
