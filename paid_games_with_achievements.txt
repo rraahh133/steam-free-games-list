@@ -17151,3 +17151,4 @@
 'https://store.steampowered.com/app/966250',
 'https://store.steampowered.com/app/966330',
 'https://store.steampowered.com/app/966320',
+'https://store.steampowered.com/app/966370',
