@@ -15540,3 +15540,4 @@
 'https://store.steampowered.com/app/883300',
 'https://store.steampowered.com/app/883360',
 'https://store.steampowered.com/app/883390',
+'https://store.steampowered.com/app/883620',
