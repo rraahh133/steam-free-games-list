@@ -15410,3 +15410,4 @@
 'https://store.steampowered.com/app/877190',
 'https://store.steampowered.com/app/877210',
 'https://store.steampowered.com/app/877300',
+'https://store.steampowered.com/app/877360',
