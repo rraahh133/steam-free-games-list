@@ -15640,3 +15640,4 @@
 'https://store.steampowered.com/app/950370',
 'https://store.steampowered.com/app/950700',
 'https://store.steampowered.com/app/950740',
+'https://store.steampowered.com/app/950760',
