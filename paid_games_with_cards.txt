@@ -16003,3 +16003,6 @@
 'https://store.steampowered.com/app/977940',
 'https://store.steampowered.com/app/978000',
 'https://store.steampowered.com/app/978140',
+'https://store.steampowered.com/app/978160',
+'https://store.steampowered.com/app/978162',
+'https://store.steampowered.com/app/978161',
