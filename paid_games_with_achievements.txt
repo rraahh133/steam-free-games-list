@@ -19453,3 +19453,5 @@
 'https://store.steampowered.com/app/1084750',
 'https://store.steampowered.com/app/1084770',
 'https://store.steampowered.com/app/1084870',
+'https://store.steampowered.com/app/1084880',
+'https://store.steampowered.com/app/1084890',
