@@ -20031,3 +20031,5 @@
 'https://store.steampowered.com/app/1113590',
 'https://store.steampowered.com/app/1113650',
 'https://store.steampowered.com/app/1113750',
+'https://store.steampowered.com/app/1113770',
+'https://store.steampowered.com/app/1113760',
