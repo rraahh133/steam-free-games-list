@@ -16290,3 +16290,4 @@
 'https://store.steampowered.com/app/1010134',
 'https://store.steampowered.com/app/1010139',
 'https://store.steampowered.com/app/1010132',
+'https://store.steampowered.com/app/1010600',
