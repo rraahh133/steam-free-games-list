@@ -16748,3 +16748,6 @@
 'https://store.steampowered.com/app/1049410',
 'https://store.steampowered.com/app/1049650',
 'https://store.steampowered.com/app/1050090',
+'https://store.steampowered.com/app/1050122',
+'https://store.steampowered.com/app/1050120',
+'https://store.steampowered.com/app/1050121',
