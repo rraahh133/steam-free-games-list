@@ -19177,3 +19177,4 @@
 'https://store.steampowered.com/app/1071920',
 'https://store.steampowered.com/app/1071940',
 'https://store.steampowered.com/app/1071950',
+'https://store.steampowered.com/app/1072040',
