@@ -19630,3 +19630,4 @@
 'https://store.steampowered.com/app/1094170',
 'https://store.steampowered.com/app/1094290',
 'https://store.steampowered.com/app/1094320',
+'https://store.steampowered.com/app/1094340',
