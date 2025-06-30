@@ -18080,3 +18080,4 @@
 'https://store.steampowered.com/app/1014850',
 'https://store.steampowered.com/app/1014840',
 'https://store.steampowered.com/app/1014900',
+'https://store.steampowered.com/app/1015020',
