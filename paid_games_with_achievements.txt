@@ -19802,3 +19802,5 @@
 'https://store.steampowered.com/app/1101120',
 'https://store.steampowered.com/app/1101190',
 'https://store.steampowered.com/app/1101180',
+'https://store.steampowered.com/app/1101220',
+'https://store.steampowered.com/app/1101230',
