@@ -17000,3 +17000,7 @@
 'https://store.steampowered.com/app/1083660',
 'https://store.steampowered.com/app/1083730',
 'https://store.steampowered.com/app/1083790',
+'https://store.steampowered.com/app/1083832',
+'https://store.steampowered.com/app/1083830',
+'https://store.steampowered.com/app/1083831',
+'https://store.steampowered.com/app/1083833',
