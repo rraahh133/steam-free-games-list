@@ -19961,3 +19961,5 @@
 'https://store.steampowered.com/app/1109940',
 'https://store.steampowered.com/app/1110010',
 'https://store.steampowered.com/app/1110030',
+'https://store.steampowered.com/app/1110050',
+'https://store.steampowered.com/app/1110040',
