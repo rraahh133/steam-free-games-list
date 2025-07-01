@@ -20141,3 +20141,4 @@
 'https://store.steampowered.com/app/1119710',
 'https://store.steampowered.com/app/1119700',
 'https://store.steampowered.com/app/1119730',
+'https://store.steampowered.com/app/1119760',
