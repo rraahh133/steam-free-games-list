@@ -22519,3 +22519,4 @@
 'https://store.steampowered.com/app/1239490',
 'https://store.steampowered.com/app/1239520',
 'https://store.steampowered.com/app/1239590',
+'https://store.steampowered.com/app/1239690',
