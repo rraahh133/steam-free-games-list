@@ -1960,3 +1960,4 @@
 'https://store.steampowered.com/app/1216470',
 'https://store.steampowered.com/app/1217100',
 'https://store.steampowered.com/app/1217160',
+'https://store.steampowered.com/app/1217350',
