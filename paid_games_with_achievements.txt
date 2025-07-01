@@ -20123,3 +20123,5 @@
 'https://store.steampowered.com/app/1118790',
 'https://store.steampowered.com/app/1118800',
 'https://store.steampowered.com/app/1118820',
+'https://store.steampowered.com/app/1118840',
+'https://store.steampowered.com/app/1118850',
