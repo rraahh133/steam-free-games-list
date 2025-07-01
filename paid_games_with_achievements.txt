@@ -20102,3 +20102,5 @@
 'https://store.steampowered.com/app/1117480',
 'https://store.steampowered.com/app/1117560',
 'https://store.steampowered.com/app/1117600',
+'https://store.steampowered.com/app/1117660',
+'https://store.steampowered.com/app/1117670',
