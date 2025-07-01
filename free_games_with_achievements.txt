@@ -2011,3 +2011,5 @@
 'https://store.steampowered.com/app/1236240',
 'https://store.steampowered.com/app/1237590',
 'https://store.steampowered.com/app/1238280',
+'https://store.steampowered.com/app/1238490',
+'https://store.steampowered.com/app/1238480',
