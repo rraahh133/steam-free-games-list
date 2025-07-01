@@ -22372,3 +22372,5 @@
 'https://store.steampowered.com/app/1232460',
 'https://store.steampowered.com/app/1232500',
 'https://store.steampowered.com/app/1232570',
+'https://store.steampowered.com/app/1232590',
+'https://store.steampowered.com/app/1232580',
