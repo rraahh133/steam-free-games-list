@@ -21981,3 +21981,5 @@
 'https://store.steampowered.com/app/1211180',
 'https://store.steampowered.com/app/1211250',
 'https://store.steampowered.com/app/1211240',
+'https://store.steampowered.com/app/1211360',
+'https://store.steampowered.com/app/1211370',
