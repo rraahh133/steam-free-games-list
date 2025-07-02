@@ -24910,3 +24910,4 @@
 'https://store.steampowered.com/app/1364690',
 'https://store.steampowered.com/app/1364710',
 'https://store.steampowered.com/app/1364740',
+'https://store.steampowered.com/app/1364760',
