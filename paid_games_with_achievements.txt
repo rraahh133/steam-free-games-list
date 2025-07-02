@@ -23245,3 +23245,4 @@
 'https://store.steampowered.com/app/1276530',
 'https://store.steampowered.com/app/1276540',
 'https://store.steampowered.com/app/1276590',
+'https://store.steampowered.com/app/1276660',
