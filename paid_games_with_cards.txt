@@ -19070,3 +19070,6 @@
 'https://store.steampowered.com/app/1336490',
 'https://store.steampowered.com/app/1336980',
 'https://store.steampowered.com/app/1337100',
+'https://store.steampowered.com/app/1337180',
+'https://store.steampowered.com/app/1337181',
+'https://store.steampowered.com/app/1337182',
