@@ -2068,3 +2068,4 @@
 'https://store.steampowered.com/app/1266380',
 'https://store.steampowered.com/app/1266900',
 'https://store.steampowered.com/app/1266970',
+'https://store.steampowered.com/app/1266980',
