@@ -19969,3 +19969,4 @@
 'https://store.steampowered.com/app/1493520',
 'https://store.steampowered.com/app/1493580',
 'https://store.steampowered.com/app/1493640',
+'https://store.steampowered.com/app/1493750',
