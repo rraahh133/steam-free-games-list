@@ -19760,3 +19760,8 @@
 'https://store.steampowered.com/app/1459960',
 'https://store.steampowered.com/app/1461610',
 'https://store.steampowered.com/app/1461630',
+'https://store.steampowered.com/app/1461850',
+'https://store.steampowered.com/app/1461852',
+'https://store.steampowered.com/app/1461854',
+'https://store.steampowered.com/app/1461851',
+'https://store.steampowered.com/app/1461853',
