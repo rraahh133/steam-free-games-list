@@ -20074,3 +20074,6 @@
 'https://store.steampowered.com/app/1520380',
 'https://store.steampowered.com/app/1520480',
 'https://store.steampowered.com/app/1521130',
+'https://store.steampowered.com/app/1521500',
+'https://store.steampowered.com/app/1521501',
+'https://store.steampowered.com/app/1521502',
