@@ -27313,3 +27313,4 @@
 'https://store.steampowered.com/app/1488430',
 'https://store.steampowered.com/app/1488440',
 'https://store.steampowered.com/app/1488510',
+'https://store.steampowered.com/app/1488560',
