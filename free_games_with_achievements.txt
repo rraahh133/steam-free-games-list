@@ -2418,3 +2418,4 @@
 'https://store.steampowered.com/app/1425240',
 'https://store.steampowered.com/app/1426440',
 'https://store.steampowered.com/app/1427640',
+'https://store.steampowered.com/app/1427760',
