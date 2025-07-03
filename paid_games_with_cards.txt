@@ -19817,3 +19817,4 @@
 'https://store.steampowered.com/app/1471270',
 'https://store.steampowered.com/app/1471590',
 'https://store.steampowered.com/app/1471700',
+'https://store.steampowered.com/app/1472030',
