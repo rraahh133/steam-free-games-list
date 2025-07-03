@@ -20078,3 +20078,4 @@
 'https://store.steampowered.com/app/1521501',
 'https://store.steampowered.com/app/1521502',
 'https://store.steampowered.com/app/1521810',
+'https://store.steampowered.com/app/1522090',
