@@ -20004,3 +20004,5 @@
 'https://store.steampowered.com/app/1503030',
 'https://store.steampowered.com/app/1503720',
 'https://store.steampowered.com/app/1503740',
+'https://store.steampowered.com/app/1503771',
+'https://store.steampowered.com/app/1503770',
