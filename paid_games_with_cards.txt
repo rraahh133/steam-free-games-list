@@ -20087,3 +20087,4 @@
 'https://store.steampowered.com/app/1522560',
 'https://store.steampowered.com/app/1522650',
 'https://store.steampowered.com/app/1522820',
+'https://store.steampowered.com/app/1522880',
