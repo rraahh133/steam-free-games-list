@@ -20056,3 +20056,6 @@
 'https://store.steampowered.com/app/1517480',
 'https://store.steampowered.com/app/1517481',
 'https://store.steampowered.com/app/1517482',
+'https://store.steampowered.com/app/1517630',
+'https://store.steampowered.com/app/1517632',
+'https://store.steampowered.com/app/1517631',
