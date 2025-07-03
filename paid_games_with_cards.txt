@@ -19560,3 +19560,4 @@
 'https://store.steampowered.com/app/1422420',
 'https://store.steampowered.com/app/1422440',
 'https://store.steampowered.com/app/1423070',
+'https://store.steampowered.com/app/1423740',
