@@ -20090,3 +20090,4 @@
 'https://store.steampowered.com/app/1522880',
 'https://store.steampowered.com/app/1523370',
 'https://store.steampowered.com/app/1523730',
+'https://store.steampowered.com/app/1523740',
