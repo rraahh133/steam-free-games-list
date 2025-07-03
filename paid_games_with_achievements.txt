@@ -26438,3 +26438,4 @@
 'https://store.steampowered.com/app/1441340',
 'https://store.steampowered.com/app/1441400',
 'https://store.steampowered.com/app/1441430',
+'https://store.steampowered.com/app/1441480',
