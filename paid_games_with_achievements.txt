@@ -26135,3 +26135,4 @@
 'https://store.steampowered.com/app/1426230',
 'https://store.steampowered.com/app/1426310',
 'https://store.steampowered.com/app/1426330',
+'https://store.steampowered.com/app/1426340',
