@@ -30418,3 +30418,4 @@
 'https://store.steampowered.com/app/1649570',
 'https://store.steampowered.com/app/1649630',
 'https://store.steampowered.com/app/1649730',
+'https://store.steampowered.com/app/1649740',
