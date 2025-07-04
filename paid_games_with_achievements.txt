@@ -30578,3 +30578,5 @@
 'https://store.steampowered.com/app/1657560',
 'https://store.steampowered.com/app/1657570',
 'https://store.steampowered.com/app/1657630',
+'https://store.steampowered.com/app/1657670',
+'https://store.steampowered.com/app/1657660',
