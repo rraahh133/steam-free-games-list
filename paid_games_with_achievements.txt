@@ -30605,3 +30605,4 @@
 'https://store.steampowered.com/app/1659210',
 'https://store.steampowered.com/app/1659200',
 'https://store.steampowered.com/app/1659310',
+'https://store.steampowered.com/app/1659340',
