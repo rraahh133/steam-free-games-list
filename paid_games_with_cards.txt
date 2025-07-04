@@ -20219,3 +20219,5 @@
 'https://store.steampowered.com/app/1552583',
 'https://store.steampowered.com/app/1552582',
 'https://store.steampowered.com/app/1552580',
+'https://store.steampowered.com/app/1552901',
+'https://store.steampowered.com/app/1552900',
