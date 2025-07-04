@@ -20499,3 +20499,4 @@
 'https://store.steampowered.com/app/1619020',
 'https://store.steampowered.com/app/1619230',
 'https://store.steampowered.com/app/1619570',
+'https://store.steampowered.com/app/1620520',
