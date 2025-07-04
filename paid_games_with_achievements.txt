@@ -29195,3 +29195,5 @@
 'https://store.steampowered.com/app/1584940',
 'https://store.steampowered.com/app/1584950',
 'https://store.steampowered.com/app/1584970',
+'https://store.steampowered.com/app/1585040',
+'https://store.steampowered.com/app/1585050',
