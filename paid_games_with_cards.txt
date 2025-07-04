@@ -20119,3 +20119,7 @@
 'https://store.steampowered.com/app/1530640',
 'https://store.steampowered.com/app/1530870',
 'https://store.steampowered.com/app/1531390',
+'https://store.steampowered.com/app/1531471',
+'https://store.steampowered.com/app/1531470',
+'https://store.steampowered.com/app/1531472',
+'https://store.steampowered.com/app/1531473',
