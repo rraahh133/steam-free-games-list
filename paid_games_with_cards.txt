@@ -20257,3 +20257,7 @@
 'https://store.steampowered.com/app/1560938',
 'https://store.steampowered.com/app/1560931',
 'https://store.steampowered.com/app/1560933',
+'https://store.steampowered.com/app/1561362',
+'https://store.steampowered.com/app/1561363',
+'https://store.steampowered.com/app/1561361',
+'https://store.steampowered.com/app/1561360',
