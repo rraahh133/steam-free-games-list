@@ -20249,3 +20249,4 @@
 'https://store.steampowered.com/app/1559290',
 'https://store.steampowered.com/app/1560371',
 'https://store.steampowered.com/app/1560490',
+'https://store.steampowered.com/app/1560570',
