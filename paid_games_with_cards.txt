@@ -20099,3 +20099,4 @@
 'https://store.steampowered.com/app/1524750',
 'https://store.steampowered.com/app/1524910',
 'https://store.steampowered.com/app/1525260',
+'https://store.steampowered.com/app/1525340',
