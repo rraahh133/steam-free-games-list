@@ -20193,3 +20193,4 @@
 'https://store.steampowered.com/app/1549470',
 'https://store.steampowered.com/app/1549560',
 'https://store.steampowered.com/app/1549730',
+'https://store.steampowered.com/app/1550510',
