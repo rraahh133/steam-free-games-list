@@ -20128,3 +20128,4 @@
 'https://store.steampowered.com/app/1531980',
 'https://store.steampowered.com/app/1532460',
 'https://store.steampowered.com/app/1532570',
+'https://store.steampowered.com/app/1532580',
