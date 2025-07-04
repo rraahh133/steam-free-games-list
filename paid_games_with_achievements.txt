@@ -30000,3 +30000,5 @@
 'https://store.steampowered.com/app/1627680',
 'https://store.steampowered.com/app/1627750',
 'https://store.steampowered.com/app/1627740',
+'https://store.steampowered.com/app/1627840',
+'https://store.steampowered.com/app/1627850',
