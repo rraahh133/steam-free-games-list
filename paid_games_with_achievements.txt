@@ -28795,3 +28795,4 @@
 'https://store.steampowered.com/app/1566250',
 'https://store.steampowered.com/app/1566350',
 'https://store.steampowered.com/app/1566340',
+'https://store.steampowered.com/app/1566360',
