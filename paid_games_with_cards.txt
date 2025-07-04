@@ -20171,3 +20171,5 @@
 'https://store.steampowered.com/app/1542950',
 'https://store.steampowered.com/app/1543030',
 'https://store.steampowered.com/app/1543710',
+'https://store.steampowered.com/app/1544070',
+'https://store.steampowered.com/app/1544060',
