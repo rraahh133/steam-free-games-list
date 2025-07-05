@@ -33185,3 +33185,4 @@
 'https://store.steampowered.com/app/1795770',
 'https://store.steampowered.com/app/1795780',
 'https://store.steampowered.com/app/1795960',
+'https://store.steampowered.com/app/1795980',
