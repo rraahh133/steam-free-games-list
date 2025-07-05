@@ -31335,3 +31335,4 @@
 'https://store.steampowered.com/app/1698520',
 'https://store.steampowered.com/app/1698570',
 'https://store.steampowered.com/app/1698630',
+'https://store.steampowered.com/app/1698640',
