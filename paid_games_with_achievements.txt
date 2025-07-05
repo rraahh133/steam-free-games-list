@@ -33119,3 +33119,4 @@
 'https://store.steampowered.com/app/1792250',
 'https://store.steampowered.com/app/1792240',
 'https://store.steampowered.com/app/1792270',
+'https://store.steampowered.com/app/1792290',
