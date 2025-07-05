@@ -31905,3 +31905,4 @@
 'https://store.steampowered.com/app/1726970',
 'https://store.steampowered.com/app/1727130',
 'https://store.steampowered.com/app/1727140',
+'https://store.steampowered.com/app/1727160',
