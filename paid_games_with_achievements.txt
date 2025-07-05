@@ -31996,3 +31996,5 @@
 'https://store.steampowered.com/app/1731340',
 'https://store.steampowered.com/app/1731360',
 'https://store.steampowered.com/app/1731390',
+'https://store.steampowered.com/app/1731410',
+'https://store.steampowered.com/app/1731400',
