@@ -31278,3 +31278,4 @@
 'https://store.steampowered.com/app/1695020',
 'https://store.steampowered.com/app/1695090',
 'https://store.steampowered.com/app/1695150',
+'https://store.steampowered.com/app/1695310',
