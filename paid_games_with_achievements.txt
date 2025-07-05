@@ -32288,3 +32288,4 @@
 'https://store.steampowered.com/app/1746230',
 'https://store.steampowered.com/app/1746290',
 'https://store.steampowered.com/app/1746300',
+'https://store.steampowered.com/app/1746400',
