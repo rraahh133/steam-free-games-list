@@ -31388,3 +31388,4 @@
 'https://store.steampowered.com/app/1701500',
 'https://store.steampowered.com/app/1701520',
 'https://store.steampowered.com/app/1701650',
+'https://store.steampowered.com/app/1701670',
