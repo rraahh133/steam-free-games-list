@@ -32200,3 +32200,4 @@
 'https://store.steampowered.com/app/1741500',
 'https://store.steampowered.com/app/1741620',
 'https://store.steampowered.com/app/1741640',
+'https://store.steampowered.com/app/1741670',
