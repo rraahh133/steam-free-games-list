@@ -31110,3 +31110,4 @@
 'https://store.steampowered.com/app/1686440',
 'https://store.steampowered.com/app/1686470',
 'https://store.steampowered.com/app/1686540',
+'https://store.steampowered.com/app/1686670',
