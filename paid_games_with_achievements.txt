@@ -32215,3 +32215,4 @@
 'https://store.steampowered.com/app/1742590',
 'https://store.steampowered.com/app/1742600',
 'https://store.steampowered.com/app/1742610',
+'https://store.steampowered.com/app/1742750',
