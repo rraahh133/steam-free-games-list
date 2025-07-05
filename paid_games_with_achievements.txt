@@ -31165,3 +31165,4 @@
 'https://store.steampowered.com/app/1689310',
 'https://store.steampowered.com/app/1689350',
 'https://store.steampowered.com/app/1689380',
+'https://store.steampowered.com/app/1689420',
