@@ -31855,3 +31855,4 @@
 'https://store.steampowered.com/app/1724120',
 'https://store.steampowered.com/app/1724130',
 'https://store.steampowered.com/app/1724140',
+'https://store.steampowered.com/app/1724160',
