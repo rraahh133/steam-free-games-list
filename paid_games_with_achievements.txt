@@ -32005,3 +32005,4 @@
 'https://store.steampowered.com/app/1731520',
 'https://store.steampowered.com/app/1731540',
 'https://store.steampowered.com/app/1731630',
+'https://store.steampowered.com/app/1731670',
