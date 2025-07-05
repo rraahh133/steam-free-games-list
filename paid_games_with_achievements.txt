@@ -31130,3 +31130,4 @@
 'https://store.steampowered.com/app/1687480',
 'https://store.steampowered.com/app/1687530',
 'https://store.steampowered.com/app/1687550',
+'https://store.steampowered.com/app/1687570',
