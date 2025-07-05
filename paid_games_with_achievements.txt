@@ -32060,3 +32060,4 @@
 'https://store.steampowered.com/app/1733940',
 'https://store.steampowered.com/app/1733990',
 'https://store.steampowered.com/app/1734050',
+'https://store.steampowered.com/app/1734070',
