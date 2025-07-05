@@ -33181,3 +33181,5 @@
 'https://store.steampowered.com/app/1795540',
 'https://store.steampowered.com/app/1795570',
 'https://store.steampowered.com/app/1795630',
+'https://store.steampowered.com/app/1795760',
+'https://store.steampowered.com/app/1795770',
