@@ -32011,3 +32011,5 @@
 'https://store.steampowered.com/app/1731850',
 'https://store.steampowered.com/app/1731920',
 'https://store.steampowered.com/app/1731940',
+'https://store.steampowered.com/app/1732060',
+'https://store.steampowered.com/app/1732070',
