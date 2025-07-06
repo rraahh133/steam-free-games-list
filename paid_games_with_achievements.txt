@@ -33480,3 +33480,4 @@
 'https://store.steampowered.com/app/1812370',
 'https://store.steampowered.com/app/1812400',
 'https://store.steampowered.com/app/1812450',
+'https://store.steampowered.com/app/1812560',
