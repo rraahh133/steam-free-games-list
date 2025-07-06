@@ -33322,3 +33322,5 @@
 'https://store.steampowered.com/app/1803590',
 'https://store.steampowered.com/app/1803600',
 'https://store.steampowered.com/app/1803640',
+'https://store.steampowered.com/app/1803690',
+'https://store.steampowered.com/app/1803680',
