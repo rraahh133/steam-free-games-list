@@ -34181,3 +34181,4 @@
 'https://store.steampowered.com/app/1852300',
 'https://store.steampowered.com/app/1852520',
 'https://store.steampowered.com/app/1852530',
+'https://store.steampowered.com/app/1852550',
