@@ -34430,3 +34430,4 @@
 'https://store.steampowered.com/app/1867590',
 'https://store.steampowered.com/app/1867610',
 'https://store.steampowered.com/app/1867660',
+'https://store.steampowered.com/app/1867740',
