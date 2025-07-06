@@ -34303,3 +34303,4 @@
 'https://store.steampowered.com/app/1860500',
 'https://store.steampowered.com/app/1860510',
 'https://store.steampowered.com/app/1860540',
+'https://store.steampowered.com/app/1860590',
