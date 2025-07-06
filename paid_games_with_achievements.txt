@@ -33500,3 +33500,4 @@
 'https://store.steampowered.com/app/1813860',
 'https://store.steampowered.com/app/1813890',
 'https://store.steampowered.com/app/1813910',
+'https://store.steampowered.com/app/1813960',
