@@ -21639,3 +21639,7 @@
 'https://store.steampowered.com/app/1853160',
 'https://store.steampowered.com/app/1853200',
 'https://store.steampowered.com/app/1853410',
+'https://store.steampowered.com/app/1853431',
+'https://store.steampowered.com/app/1853432',
+'https://store.steampowered.com/app/1853430',
+'https://store.steampowered.com/app/1853420',
