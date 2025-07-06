@@ -35011,3 +35011,5 @@
 'https://store.steampowered.com/app/1901810',
 'https://store.steampowered.com/app/1901830',
 'https://store.steampowered.com/app/1901890',
+'https://store.steampowered.com/app/1901940',
+'https://store.steampowered.com/app/1901950',
