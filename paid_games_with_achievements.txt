@@ -34815,3 +34815,4 @@
 'https://store.steampowered.com/app/1890200',
 'https://store.steampowered.com/app/1890280',
 'https://store.steampowered.com/app/1890290',
+'https://store.steampowered.com/app/1890340',
