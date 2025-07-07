@@ -22070,3 +22070,6 @@
 'https://store.steampowered.com/app/1940860',
 'https://store.steampowered.com/app/1941120',
 'https://store.steampowered.com/app/1941121',
+'https://store.steampowered.com/app/1941460',
+'https://store.steampowered.com/app/1941471',
+'https://store.steampowered.com/app/1941470',
