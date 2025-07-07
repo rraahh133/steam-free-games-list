@@ -35710,3 +35710,4 @@
 'https://store.steampowered.com/app/1938740',
 'https://store.steampowered.com/app/1938850',
 'https://store.steampowered.com/app/1939100',
+'https://store.steampowered.com/app/1939160',
