@@ -22199,3 +22199,4 @@
 'https://store.steampowered.com/app/1960210',
 'https://store.steampowered.com/app/1960220',
 'https://store.steampowered.com/app/1960350',
+'https://store.steampowered.com/app/1960590',
