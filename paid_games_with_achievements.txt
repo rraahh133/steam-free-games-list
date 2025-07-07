@@ -36578,3 +36578,4 @@
 'https://store.steampowered.com/app/1985360',
 'https://store.steampowered.com/app/1985420',
 'https://store.steampowered.com/app/1985470',
+'https://store.steampowered.com/app/1985480',
