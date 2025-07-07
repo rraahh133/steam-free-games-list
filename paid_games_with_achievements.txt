@@ -36118,3 +36118,4 @@
 'https://store.steampowered.com/app/1960930',
 'https://store.steampowered.com/app/1960950',
 'https://store.steampowered.com/app/1960940',
+'https://store.steampowered.com/app/1960990',
